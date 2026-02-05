@@ -12,7 +12,7 @@ This project demonstrates Django views, templates, forms, Tailwind CSS, and basi
 
 ### Clone the repository
 ```bash
-git clone https://github.com/Leon-glitch-png/django_learning.git
+git clone https://github.com/anuj2731997/django_learning.git
 cd django_learning
 ````
 
